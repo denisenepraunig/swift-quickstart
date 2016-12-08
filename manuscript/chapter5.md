@@ -28,9 +28,9 @@ var obj = ["key": "value",
 obj["key"] = "blabla"   // super awesome comment
 
 enum ImageStyleValues: String {
-    case person = "mimi"
-    case product =  "fooo"
-    case nonFioriStyle = "none"
+   case person = "mimi"
+   case product =  "fooo"
+   case nonFioriStyle = "none"
 }
 
 func colorFrom2(string: String) -> UIColor {
