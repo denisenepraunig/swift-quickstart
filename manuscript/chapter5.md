@@ -3,7 +3,6 @@
 Now let's test if we can turn off those line numbers...
 
 {linenos=off}
-
 ```swift
 func first() -> () -> Int {
    var counter = 0
