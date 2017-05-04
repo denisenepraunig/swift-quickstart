@@ -4,7 +4,8 @@ Now here a very long source code example.
 
 {linenos=off}
 ```swift
-func tableView(_ tableView: UITableView, editActionsForRowAt indexPath: IndexPath) -> [UITableViewRowAction]? {
+func tableView(_ tableView: UITableView,   
+editActionsForRowAt indexPath: IndexPath) -> [UITableViewRowAction]? {
 
     let addToCart = UITableViewRowAction(style: .normal, title: "Add To Cart") { _, _ in
 
