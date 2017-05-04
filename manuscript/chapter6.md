@@ -32,3 +32,5 @@ func tableView(_ tableView: UITableView, editActionsForRowAt indexPath: IndexPat
     return [addToCart]
 }
 ```
+
+Happy copy pasting in the pdf file.
